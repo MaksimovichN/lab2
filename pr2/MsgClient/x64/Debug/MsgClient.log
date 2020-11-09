@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  MsgClient.cpp
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\Msg.h(49,35): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\Msg.h(59,29): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\Msg.h(62,18): warning C4244: return: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgClient\MsgClient.cpp(45,26): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+  MsgClient.vcxproj -> C:\учеба\7 семак\папилина\лаб1\MsgServer\Debug\MsgClient.exe

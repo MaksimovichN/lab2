@@ -1,0 +1,10 @@
+C:\учеба\7 семак\папилина\лаб1\MsgServer\SharpClient\x64\Debug\SharpClient.exe.config
+C:\учеба\7 семак\папилина\лаб1\MsgServer\SharpClient\x64\Debug\SharpClient.exe
+C:\учеба\7 семак\папилина\лаб1\MsgServer\SharpClient\x64\Debug\SharpClient.pdb
+C:\учеба\7 семак\папилина\лаб1\MsgServer\SharpClient\obj\Debug\SharpClient.csprojAssemblyReference.cache
+C:\учеба\7 семак\папилина\лаб1\MsgServer\SharpClient\obj\Debug\SharpClient.csproj.CoreCompileInputs.cache
+C:\учеба\7 семак\папилина\лаб1\MsgServer\SharpClient\obj\Debug\SharpClient.exe
+C:\учеба\7 семак\папилина\лаб1\MsgServer\SharpClient\obj\Debug\SharpClient.pdb
+C:\учеба\7 семак\папилина\лаб1\MsgServer\Debug\SharpClient.exe.config
+C:\учеба\7 семак\папилина\лаб1\MsgServer\Debug\SharpClient.exe
+C:\учеба\7 семак\папилина\лаб1\MsgServer\Debug\SharpClient.pdb

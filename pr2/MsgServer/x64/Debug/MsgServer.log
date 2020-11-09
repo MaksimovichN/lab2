@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  MsgServer.cpp
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\Msg.h(49,35): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\Msg.h(59,29): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\Msg.h(62,18): warning C4244: return: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(37,39): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(38,40): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(43,42): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(45,37): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(46,37): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(52,42): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(54,37): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(55,46): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+C:\учеба\7 семак\папилина\лаб1\MsgServer\MsgServer\MsgServer.cpp(57,41): warning C4244: аргумент: преобразование "unsigned __int64" в "const int", возможна потеря данных
+  MsgServer.vcxproj -> C:\учеба\7 семак\папилина\лаб1\MsgServer\Debug\MsgServer.exe
